@@ -13,7 +13,7 @@ EgoMind: 通用具身智能机器人模型框架
 """
 
 __version__ = "1.0.0"
-__author__ = "AI Assistant"
+__author__ = "xichen185"
 
 from .core.agent import EmbodiedAgent
 from .perception.multimodal_perception import MultimodalPerception
